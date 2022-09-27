@@ -1,0 +1,2 @@
+hello this is my first txt file
+and this is my secon line im typing in this file
